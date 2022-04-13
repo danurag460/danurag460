@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danurag460
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on any Deep Learning Project
+- 💞️ I’m looking forward to collaborate with interesting Deep Learning Projects.
 - 📫 Reach me on linkedin https://www.linkedin.com/in/anurag-dixit-45758114b
 
 <!---
